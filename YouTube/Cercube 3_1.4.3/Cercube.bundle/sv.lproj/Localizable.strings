@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Downloads</key>
+	<string>Downloads</string>
+	<key>Cercube found the following extensions loading into YouTube app, which might make Cercube not function properly:\n%@</key>
+	<string>Cercube  hittade fˆljande till‰gg lastning i YouTube-appen, som skulle kunna gˆra Cercube inte fungerar korrekt:\\n%@</string>
+	<key>Kill YouTube</key>
+	<string>St‰ng av Youtube</string>
+	<key>Cercube: Error</key>
+	<string>Cercube:Fel</string>
+	<key>Cercube 3 is not loaded properly.\nRespring your device or try installing the package from an official Cydia repository.</key>
+	<string>Cercube 3 har inte laddats pÂ korrekt s‰tt .\\nStarta om enheten eller fˆrsˆk installera paketet frÂn en officiell Cydia repository.</string>
+	<key>Navigate to Downloads</key>
+	<string>Navigera till nedladdningar</string>
+	<key>Cercube Update Required</key>
+	<string>Cercube Update kr‰vs</string>
+	<key>Update Cercube 3 to version %@!</key>
+	<string>Uppdatera Cercube 3 till version% @!</string>
+	<key>Update Now</key>
+	<string>Uppdatera nu</string>
+	<key>Version %@</key>
+	<string>Version %@</string>
+	<key>Cancel</key>
+	<string>Avbryt</string>
+	<key>Import</key>
+	<string>Import</string>
+	<key>Error</key>
+	<string>Fel</string>
+	<key>Select from Photo Library</key>
+	<string>V‰lj frÂn fotobiblioteket</string>
+	<key>Search the Web</key>
+	<string>Sˆk pÂ webben</string>
+	<key>Destination</key>
+	<string>Destination</string>
+	<key>Music Library</key>
+	<string>Musik biblioteket</string>
+	<key>Videos</key>
+	<string>Videos</string>
+	<key>Unknown</key>
+	<string>Ok‰nd</string>
+	<key>Media Title</key>
+	<string>Media titel</string>
+	<key>Media Artist</key>
+	<string>Media Artist</string>
+	<key>Media Album</key>
+	<string>Media Album</string>
+	<key>Title</key>
+	<string>titel</string>
+	<key>Artist</key>
+	<string>Artist</string>
+	<key>Album</key>
+	<string>Album</string>
+	<key>Music Library (Selected)</key>
+	<string>Music Bibliotek (Vald)</string>
+	<key>Videos (Selected)</key>
+	<string>Videor (Vald)</string>
+	<key>Configuration</key>
+	<string>konfiguration</string>
+	<key>Cercube Tips</key>
+	<string>Cercube Tips</string>
+	<key>Short-hold on the search button in the main YouTube page to navigate to the downloaded files using iFile/Filza.</key>
+	<string>hÂll i  sˆkknappen i YouTube fˆr att navigera till nedladdade filer med ifile / Filza.</string>
+	<key>Dismiss</key>
+	<string>Avvisa</string>
+	<key>Button Gestures</key>
+	<string>Knapp Gester</string>
+	<key>Auto Replay</key>
+	<string>Auto omspelsning</string>
+	<key>HD on Cellular Data</key>
+	<string>HD pÂ Mobildata</string>
+	<key>Background Playback</key>
+	<string>Bakgrund omspelsning</string>
+	<key>Ads Blocker</key>
+	<string>Annons Blockerare</string>
+	<key>Default Playback Quality</key>
+	<string>Standard uppspelningkvalite</string>
+	<key>Playback Quality</key>
+	<string>Uppspelningskvalite</string>
+	<key>Auto Start on Page</key>
+	<string>Autostart pÂ sidan</string>
+	<key>Startup Page</key>
+	<string>startsidan</string>
+	<key>Cercube Red is Active</key>
+	<string>Cercube Red ‰r aktiv</string>
+	<key>Get Cercube Red (FREE)</key>
+	<string>FÂ Cercube Red (gratis)</string>
+	<key>Purchase Cercube Red</key>
+	<string>Kˆp Cercube Red</string>
+	<key>Developer</key>
+	<string>Utvecklare</string>
+	<key>Designer</key>
+	<string>Designer</string>
+	<key>Home (Selected)</key>
+	<string>Hem (vald)</string>
+	<key>Home</key>
+	<string>Hem</string>
+	<key>Subscriptions (Selected)</key>
+	<string>Prenumerationer (vald)</string>
+	<key>Subscriptions</key>
+	<string>Prenumerationer</string>
+	<key>Profile (Selected)</key>
+	<string>Profil (vald)</string>
+	<key>Profile</key>
+	<string>Profil</string>
+	<key>Downloads (Selected)</key>
+	<string>Nedladdningar (vald)</string>
+	<key>144p (Selected)</key>
+	<string>144p (vald)</string>
+	<key>240p (Selected)</key>
+	<string>240p (vald)</string>
+	<key>360p (Selected)</key>
+	<string>360p (vald)</string>
+	<key>480p (Selected)</key>
+	<string>480p (vald)</string>
+	<key>720p (Selected)</key>
+	<string>720p (vald)</string>
+	<key>1080p (Selected)</key>
+	<string>1080p (vald)</string>
+	<key>Auto (Selected)</key>
+	<string>Auto (vald)</string>
+	<key>Later</key>
+	<string>senare</string>
+	<key>Watch Video</key>
+	<string>Titta pÂ en Video</string>
+	<key>Sorry :(\nNo videos available at this time, try other options to unlock Cercube Red.</key>
+	<string>Tyv‰rr: (\\ nInga videos finns tillg‰ngliga just nu, prova andra alternativ fˆr att lÂsa upp Cercube Red.</string>
+	<key>Tweet</key>
+	<string>Tweet</string>
+	<key>Activate Cercube Red to disable advertisements in Cercube!\n\n- Watching a video enables Cercube Red for 6 hours.\n- Tweeting about Cercube enables Cercube Red for 36 hours</key>
+	<string>Aktivera Cercube Red fˆr att inaktivera annonser i Cercube! \\ N \\ n Titta pÂ en video fÂ Cercube Red i 6 timmar. \\ N- Twritta om Cercube ger Cercube Red fˆr 36 timmar</string>
+	<key>Twitter is not setup on your device!</key>
+	<string>Twitter ‰r inte inst‰lld pÂ din enhet!</string>
+	<key>Download</key>
+	<string>H‰mta</string>
+	<key>Download Started</key>
+	<string>Laddar Ner</string>
+	<key>Audio Only</key>
+	<string>Endast ljud</string>
+	<key>Add to Downloads</key>
+	<string>L‰gg till nedladdningar</string>
+	<key>Stop Download</key>
+	<string>Stoppa Nedladdning</string>
+	<key>Delete</key>
+	<string>Radera</string>
+	<key>Share</key>
+	<string>Dela</string>
+	<key>Save to Library</key>
+	<string>Spara till bibliotek</string>
+	<key>Save to Photos</key>
+	<string>Spara i bilder</string>
+	<key>Saved to Camera Roll</key>
+	<string>Sparad till kamerarullen</string>
+	<key>Failed to save media</key>
+	<string>Det gick inte att spara media</string>
+	<key>I&apos;m using Cercube 3 by @freemanrepo to download YouTube videos on my %@!</key>
+	<string>Jag anv‰nder Cercube 3 av @freemanrepo att ladda ner YouTube-videor till min% @!</string>
+</dict>
+</plist>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1080p (Selected)</key>
+	<string>1080p (Ausgewählt)</string>
+	<key>144p (Selected)</key>
+	<string>144p (Ausgewählt)</string>
+	<key>240p (Selected)</key>
+	<string>240p (Ausgewählt)</string>
+	<key>360p (Selected)</key>
+	<string>360p (Ausgewählt)</string>
+	<key>480p (Selected)</key>
+	<string>480p (Ausgewählt)</string>
+	<key>720p (Selected)</key>
+	<string>720p (Ausgewählt)</string>
+	<key>Activate Cercube Red to disable advertisements in Cercube!\n\n- Watching a video enables Cercube Red for 6 hours.\n- Tweeting about Cercube enables Cercube Red for 36 hours</key>
+	<string>Aktiviere Cercube Red um Werbung in Cercube zu entfernen!\n\n- Schaue dieses Video an, um Cercube Red für 6 Stunden zu aktivieren.\n- Tweete über Cercube, um Cercube Red für 36 Stunden zu aktivieren.</string>
+	<key>Add to Downloads</key>
+	<string>Zu Downloads hinzufügen</string>
+	<key>Ads Blocker</key>
+	<string>Werbeblocker</string>
+	<key>Album</key>
+	<string>Album</string>
+	<key>Artist</key>
+	<string>Interpret</string>
+	<key>Audio Only</key>
+	<string>Nur Ton</string>
+	<key>Auto (Selected)</key>
+	<string>Auto (Ausgewählt)</string>
+	<key>Auto Replay</key>
+	<string>Automatisch Wiederholen</string>
+	<key>Auto Start on Page</key>
+	<string>Automatisch auf Seite starten</string>
+	<key>Background Playback</key>
+	<string>Hintergrund Wiedergabe</string>
+	<key>Button Gestures</key>
+	<string>Knopf Gesten</string>
+	<key>Cancel</key>
+	<string>Abbrechen</string>
+	<key>Cercube 3 is not loaded properly.\nRespring your device or try installing the package from an official Cydia repository.</key>
+	<string>Cercube 3 konnte nich richtig geladen werden.\nRespringe dein Gerät oder versuche Cercube 3 von einer offiziellen Quelle zu installieren.</string>
+	<key>Cercube Red is Active</key>
+	<string>Cercube Red ist aktiv</string>
+	<key>Cercube Tips</key>
+	<string>Cercube Tipps</string>
+	<key>Cercube Update Required</key>
+	<string>Cercube Update benötigt</string>
+	<key>Cercube found the following extensions loading into YouTube app, which might make Cercube not function properly:\n%@</key>
+	<string>Cercube hat folgende Erweiterung(en) gefunden, welche mit der YouTube App geladen wurden. Diese können die Funktionalität von Cercube möglicherweise beeinträchtigen:\n%@</string>
+	<key>Cercube: Error</key>
+	<string>Cercube: Fehler</string>
+	<key>Configuration</key>
+	<string>Konfiguration</string>
+	<key>Default Playback Quality</key>
+	<string>Standard Wiedergabe Qualität</string>
+	<key>Delete</key>
+	<string>Entfernen</string>
+	<key>Designer</key>
+	<string>Designer</string>
+	<key>Destination</key>
+	<string>Ziel</string>
+	<key>Developer</key>
+	<string>Entwickler</string>
+	<key>Dismiss</key>
+	<string>Verwerfen</string>
+	<key>Download</key>
+	<string>Download</string>
+	<key>Download Started</key>
+	<string>Download Gestartet</string>
+	<key>Downloads</key>
+	<string>Downloads</string>
+	<key>Downloads (Selected)</key>
+	<string>Downloads (Ausgewählt)</string>
+	<key>Error</key>
+	<string>Fehler</string>
+	<key>Failed to save media</key>
+	<string>Speichern von Medien fehlgeschlagenen</string>
+	<key>Get Cercube Red (FREE)</key>
+	<string>Bekomme Cercube Red (Kostenlos)</string>
+	<key>HD on Cellular Data</key>
+	<string>HD im Mobilen Netz</string>
+	<key>Home</key>
+	<string>Start</string>
+	<key>Home (Selected)</key>
+	<string>Start (Ausgewählt)</string>
+	<key>I'm using Cercube 3 by @freemanrepo to download YouTube videos on my %@!</key>
+	<string>Ich benutze Cercube 3 von @freemanrepo um YouTube Videos auf mein %@ herunterzuladen!</string>
+	<key>Import</key>
+	<string>Importieren</string>
+	<key>Kill YouTube</key>
+	<string>Schließe YouTube</string>
+	<key>Later</key>
+	<string>Später</string>
+	<key>Media Album</key>
+	<string>Media Album</string>
+	<key>Media Artist</key>
+	<string>Media Interpret</string>
+	<key>Media Title</key>
+	<string>Media Titel</string>
+	<key>Music Library</key>
+	<string>Musik Sammlung</string>
+	<key>Music Library (Selected)</key>
+	<string>Musik Sammlung (Ausgewählt)</string>
+	<key>Navigate to Downloads</key>
+	<string>Navigiere zu Downloads</string>
+	<key>Playback Quality</key>
+	<string>Wiedergabe Qualität</string>
+	<key>Profile</key>
+	<string>Konto</string>
+	<key>Profile (Selected)</key>
+	<string>Konto (Ausgewählt)</string>
+	<key>Purchase Cercube Red</key>
+	<string>Kaufe Cercube Red</string>
+	<key>Save to Library</key>
+	<string>In Sammlung speichern</string>
+	<key>Save to Photos</key>
+	<string>In Fotos speichern</string>
+	<key>Saved to Camera Roll</key>
+	<string>In Fotosammlung gespeichert</string>
+	<key>Search the Web</key>
+	<string>Suche im Internet</string>
+	<key>Select from Photo Library</key>
+	<string>Aus Fotosammlung auswählen</string>
+	<key>Share</key>
+	<string>Teilen</string>
+	<key>Short-hold on the search button in the main YouTube page to navigate to the downloaded files using iFile/Filza.</key>
+	<string>Halte kurz den Suchknopf auf der YouTube Hauptseite, um zu den heruntergeladenen Dateien mit iFile/Filza zu gelangen.</string>
+	<key>Sorry :(\nNo videos available at this time, try other options to unlock Cercube Red.</key>
+	<string>Entschuldige :(\nMomentan sind keine Videos verfügbar. Versuche eine andere Option um Cercube Red freizuschalten.</string>
+	<key>Startup Page</key>
+	<string>Startseite</string>
+	<key>Stop Download</key>
+	<string>Download Stoppen</string>
+	<key>Subscriptions</key>
+	<string>Abos</string>
+	<key>Subscriptions (Selected)</key>
+	<string>Abos (Ausgewählt)</string>
+	<key>Title</key>
+	<string>Titel</string>
+	<key>Tweet</key>
+	<string>Tweet</string>
+	<key>Twitter is not setup on your device!</key>
+	<string>Twitter ist auf deinem Gerät noch nicht eingerichtet. </string>
+	<key>Unknown</key>
+	<string>Unbekannt</string>
+	<key>Update Cercube 3 to version %@!</key>
+	<string>Update Cercube 3 auf Version %@!</string>
+	<key>Update Now</key>
+	<string>Jetzt Updaten</string>
+	<key>Version %@</key>
+	<string>Version %@</string>
+	<key>Videos</key>
+	<string>Videos</string>
+	<key>Videos (Selected)</key>
+	<string>Videos (Ausgewählt)</string>
+	<key>Watch Video</key>
+	<string>Schaue Video</string>
+</dict>
+</plist>

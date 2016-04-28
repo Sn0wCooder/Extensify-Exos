@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Downloads</key>
+	<string>Downloads</string>
+	<key>Cercube found the following extensions loading into YouTube app, which might make Cercube not function properly:\n%@</key>
+	<string>Cercube vond de volgende extensies geladen in de YouTube app, dat ervoor zorgt dat deze niet meer werkt:\n%@</string>
+	<key>Kill YouTube</key>
+	<string>Kill YouTube</string>
+	<key>Cercube: Error</key>
+	<string>Cercube: Error</string>
+	<key>Cercube 3 is not loaded properly.\nRespring your device or try installing the package from an official Cydia repository.</key>
+	<string>Cercube 3 is niet goed geladen.\nRespring je apparaat of installeer het pakket opnieuw van een officiële Cydia bron</string>
+	<key>Navigate to Downloads</key>
+	<string>Navigeer naar Downloads</string>
+	<key>Cercube Update Required</key>
+	<string>Cercube Update Benodigd</string>
+	<key>Update Cercube 3 to version %@!</key>
+	<string>Update Cercube 3 naar versie %@!</string>
+	<key>Update Now</key>
+	<string>Update nu</string>
+	<key>Version %@</key>
+	<string>Versie %@</string>
+	<key>Cancel</key>
+	<string>Cancel</string>
+	<key>Import</key>
+	<string>Importeren</string>
+	<key>Error</key>
+	<string>Error</string>
+	<key>Select from Photo Library</key>
+	<string>Selecteer foto’s van Photo Library</string>
+	<key>Search the Web</key>
+	<string>Zoek het Web</string>
+	<key>Destination</key>
+	<string>Bestemming</string>
+	<key>Music Library</key>
+	<string>Music Bibiliotheek</string>
+	<key>Videos</key>
+	<string>Video&apos;s</string>
+	<key>Unknown</key>
+	<string>Niet gevonden</string>
+	<key>Media Title</key>
+	<string>Media Titel</string>
+	<key>Media Artist</key>
+	<string>Media Artiest</string>
+	<key>Media Album</key>
+	<string>Media Album</string>
+	<key>Title</key>
+	<string>Titel</string>
+	<key>Artist</key>
+	<string>Artiest</string>
+	<key>Album</key>
+	<string>Album</string>
+	<key>Music Library (Selected)</key>
+	<string>Muziek Bibliotheek (Geselecteerd)</string>
+	<key>Videos (Selected)</key>
+	<string>Video&apos;s (Geselecteerd)</string>
+	<key>Configuration</key>
+	<string>Configuratie</string>
+	<key>Cercube Tips</key>
+	<string>Cercube Tips</string>
+	<key>Short-hold on the search button in the main YouTube page to navigate to the downloaded files using iFile/Filza.</key>
+	<string>Houd de search-knop even ingedrukt op de YouTube pagina om naar het download bestand te gaan met iFile/Filza.</string>
+	<key>Dismiss</key>
+	<string>Annuleer</string>
+	<key>Button Gestures</key>
+	<string>Button Gebaren</string>
+	<key>Auto Replay</key>
+	<string>Auto Replay</string>
+	<key>HD on Cellular Data</key>
+	<string>HD op Mobiel netwerk</string>
+	<key>Background Playback</key>
+	<string>Op achtergrond afspelen</string>
+	<key>Ads Blocker</key>
+	<string>Ads Blockeren</string>
+	<key>Default Playback Quality</key>
+	<string>Automatische Playback Kwaliteit</string>
+	<key>Playback Quality</key>
+	<string>Playback Kwaliteit</string>
+	<key>Auto Start on Page</key>
+	<string>Auto Start op Pagina</string>
+	<key>Startup Page</key>
+	<string>Startup Pagina</string>
+	<key>Cercube Red is Active</key>
+	<string>Cercube Red is Actief</string>
+	<key>Get Cercube Red (FREE)</key>
+	<string>Get Cercube Red (GRATIS)</string>
+	<key>Purchase Cercube Red</key>
+	<string>Koop Cercube Red</string>
+	<key>Developer</key>
+	<string>Ontwikkelaar</string>
+	<key>Designer</key>
+	<string>Ontwerper</string>
+	<key>Home (Selected)</key>
+	<string>Home (Geselecteerd)</string>
+	<key>Home</key>
+	<string>Home</string>
+	<key>Subscriptions (Selected)</key>
+	<string>Abonnementen (Geselecteerd)</string>
+	<key>Subscriptions</key>
+	<string>Abonnementen</string>
+	<key>Profile (Selected)</key>
+	<string>Profiel (Geselecteerd)</string>
+	<key>Profile</key>
+	<string>Profiel</string>
+	<key>Downloads (Selected)</key>
+	<string>Downloads (Geselecteerd)</string>
+	<key>144p (Selected)</key>
+	<string>144p (Geselecteerd)</string>
+	<key>240p (Selected)</key>
+	<string>240p (Geselecteerd)</string>
+	<key>360p (Selected)</key>
+	<string>360p (Geselecteerd)</string>
+	<key>480p (Selected)</key>
+	<string>480p (Geselecteerd)</string>
+	<key>720p (Selected)</key>
+	<string>720p (Geselecteerd)</string>
+	<key>1080p (Selected)</key>
+	<string>1080p (Geselecteerd)</string>
+	<key>Auto (Selected)</key>
+	<string>Auto (Geselecteerd)</string>
+	<key>Later</key>
+	<string>Later</string>
+	<key>Watch Video</key>
+	<string>Bekijk Video</string>
+	<key>Sorry :(\nNo videos available at this time, try other options to unlock Cercube Red.</key>
+	<string>Sorry :(\nGeen video’s beschikbaar op dit moment, probeer een andere optie om cercube Red te unlocken.</string>
+	<key>Tweet</key>
+	<string>Tweet</string>
+	<key>Activate Cercube Red to disable advertisements in Cercube!\n\n- Watching a video enables Cercube Red for 6 hours.\n- Tweeting about Cercube enables Cercube Red for 36 hours</key>
+	<string>Activeer Circube Red om de advertenties uit te schakelen!\n\n- Het bekijken van een video schakelt Cercube Red voor 6 uur in.\n- Tweets over Cercube schakelt Cercube Red voor 36 uur in</string>
+	<key>Twitter is not setup on your device!</key>
+	<string>Twitter is niet ingeschakeld op dit apparaat!</string>
+	<key>Download</key>
+	<string>Download</string>
+	<key>Download Started</key>
+	<string>Download Begonnen</string>
+	<key>Audio Only</key>
+	<string>Alleen Audio</string>
+	<key>Add to Downloads</key>
+	<string>Voeg toe aan Downloads</string>
+	<key>Stop Download</key>
+	<string>Stop Download</string>
+	<key>Delete</key>
+	<string>Verwijder</string>
+	<key>Share</key>
+	<string>Deel</string>
+	<key>Save to Library</key>
+	<string>Opslaan naar Bibliotheek</string>
+	<key>Save to Photos</key>
+	<string>Opslaan naar Foto&apos;s</string>
+	<key>Saved to Camera Roll</key>
+	<string>Opgeslagen naar Foto&apos;s</string>
+	<key>Failed to save media</key>
+	<string>Media opslaan mislukt</string>
+	<key>I&apos;m using Cercube 3 by @freemanrepo to download YouTube videos on my %@!</key>
+	<string>Ik gebruik Cercube 3 door @freemanrepo om video’s te downloaded op mijn %@!</string>
+</dict>
+</plist>
