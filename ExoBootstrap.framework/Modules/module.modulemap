@@ -1,0 +1,6 @@
+framework module ExoBootstrap {
+  umbrella header "ExoBootstrap.h"
+
+  export *
+  module * { export * }
+}
