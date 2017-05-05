@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BugFix</key>
+	<string>9.6</string>
+	<key>Major</key>
+	<string>4</string>
+	<key>Minor</key>
+	<string>0</string>
+	<key>identifier</key>
+	<string>me.alfhaily.cercube</string>
+	<key>install_type</key>
+	<string>sideload</string>
+	<key>tag</key>
+	<string>stable</string>
+	<key>timestamp</key>
+	<string>1491937458</string>
+	<key>version</key>
+	<string>AwE1bY9FfaUnRIu1+c5UO62UrLB8wcTIGXSPanP/FG2msxZNz0S/oCIAxLq53lwvvfOlzUEnV0019N/MRTrxywzz4RP/vqv3AW0cFIuH9kkPzw==</string>
+</dict>
+</plist>

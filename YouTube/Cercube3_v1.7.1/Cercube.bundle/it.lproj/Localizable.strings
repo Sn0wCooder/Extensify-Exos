@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1080p (Selected)</key>
+	<string>1080p (Selezionato)</string>
+	<key>144p (Selected)</key>
+	<string>144p (Selezionato)</string>
+	<key>240p (Selected)</key>
+	<string>240p (Selezionato)</string>
+	<key>360p (Selected)</key>
+	<string>360p (Selezionato)</string>
+	<key>480p (Selected)</key>
+	<string>480p (Selezionato)</string>
+	<key>720p (Selected)</key>
+	<string>720p (Selezionato)</string>
+	<key>Activate Cercube Red to disable advertisements in Cercube!\n\n- Watching a video enables Cercube Red for 6 hours.\n- Tweeting about Cercube enables Cercube Red for 36 hours</key>
+	<string>Attiva Cercube Red per disabilitare le pubblicità in Cercube!\n\n- Guardare un video abilita Cercube Red per 6 ore.\n- Twittare a proposito di Cercube abilita Cercube Red per 36 ore.</string>
+	<key>Add to Downloads</key>
+	<string>Aggiungi ai Download</string>
+	<key>Additions</key>
+	<string>Extra</string>
+	<key>Adds (+) and (-) to control playback speed rate.</key>
+	<string>Aggiungi (+) e (-) per controllare la velocità di riproduzione.</string>
+	<key>Adds backward &amp; forward buttons to video overlay.</key>
+	<string>Aggiungi i bottoni Avvolgi e Avanza nel menù dei video</string>
+	<key>Ads Blocker</key>
+	<string>Blocca pubblicità</string>
+	<key>Album</key>
+	<string>Album</string>
+	<key>All-in-one free Facebook tweak!</key>
+	<string>Tweak gratuito per Facebook, tutto in uno!</string>
+	<key>All-in-one free Instagram tweak!</key>
+	<string>Tweak gratuito per Instagram, tutto in uno!</string>
+	<key>Apply Changes</key>
+	<string>Applica cambiamenti</string>
+	<key>Are you sick of ads? You can get rid of them by upgrading to Cercube Red.</key>
+	<string>Sei stanco delle pubblicità? Puoi rimuoverle aggiornando a Cercube Red.</string>
+	<key>Artist</key>
+	<string>Artista</string>
+	<key>Audio</key>
+	<string>Audio</string>
+	<key>Audio (Selected)</key>
+	<string>Audio (Selezionato)</string>
+	<key>Audio Only</key>
+	<string>Solo audio</string>
+	<key>Auto</key>
+	<string>Automatico</string>
+	<key>Auto (Selected)</key>
+	<string>Automatico (Selezionato)</string>
+	<key>Auto Replay</key>
+	<string>Replay automatico</string>
+	<key>Auto Start on Page</key>
+	<string>Avvia automaticamente sulla pagina</string>
+	<key>Automatically play videos with specified quality.</key>
+	<string>Riproduci automaticamente video alla qualità selezionata.</string>
+	<key>Automatically replay video when playback completes.</key>
+	<string>Riavvia video automaticamente quando la riproduzione termina</string>
+	<key>Automatically switch to the following page on startup.</key>
+	<string>Cambia automaticamente alla pagina selezionata all&apos;avvio.</string>
+	<key>Background Playback</key>
+	<string>Riproduzione in background</string>
+	<key>Backward &amp; Forward</key>
+	<string>Avvolgi e Avanza</string>
+	<key>Block video ads and promotional cells.</key>
+	<string>Blocca pubblicità nei video e banner pubblicitari.</string>
+	<key>Buy the dev a cup of coffee</key>
+	<string>Compra al dev una tazza di caffè</string>
+	<key>Cancel</key>
+	<string>Annulla</string>
+	<key>Cercube 3 - v%@</key>
+	<string>Cercube 3 - v%@</string>
+	<key>Cercube 3 is a free Cydia tweak that lets you download Youtube videos on iOS!</key>
+	<string>Cercube 3 è un tweak gratis che ti permette di scaricare video da YouTube su iOS!</string>
+	<key>Cercube 3 is not loaded properly.\nThis is a problem caused by iOS and is usually fixed by rebooting your device.</key>
+	<string>Cercube 3 non è stato caricato a dovere.\nQueeto problema è causato da iOS ed è generalmente fixato riavviando il dispositivo.</string>
+	<key>Cercube 3 is the best YouTube downloader for iOS!</key>
+	<string>Cercube 3 è il miglior YouTube downloader per iOS!</string>
+	<key>Cercube Red (Remove Ads)</key>
+	<string>Cercube Red (Rimuovi pubblicità)</string>
+	<key>Cercube Red is Active</key>
+	<string>Cercube Red è attivo</string>
+	<key>Cercube Update Available</key>
+	<string>Aggiornamento di Cercube disponibile</string>
+	<key>Cercube Update Required</key>
+	<string>Aggiornamento di Cercube richiesto</string>
+	<key>Cercube: Error</key>
+	<string>Cercube: Errore</string>
+	<key>Checkout Cercube 3! A tweak that lets you download YouTube videos for free.</key>
+	<string>Scopri Cercube 3! Un tweak che ti permette di scaricare video da YouTube gratuitamente.</string>
+	<key>Complete Queue</key>
+	<string>Cosa completa</string>
+	<key>Configuration</key>
+	<string>Configurazione</string>
+	<key>Confirm</key>
+	<string>Conferma</string>
+	<key>Creators</key>
+	<string>Creatori</string>
+	<key>Customizations</key>
+	<string>Personalizzazione</string>
+	<key>Cydia</key>
+	<string>Cydia</string>
+	<key>Default Download Quality</key>
+	<string>Qualità download predefinita</string>
+	<key>Default Playback Quality</key>
+	<string>Qualità di riproduzione predefinita</string>
+	<key>Delete</key>
+	<string>Cancella</string>
+	<key>Destination</key>
+	<string>Destinazione</string>
+	<key>Developer</key>
+	<string>Sviluppatore</string>
+	<key>Device blocked from making purchases. Please contact dev.</key>
+	<string>Dispositivo non abilitato agli acquisti, contatta il dev</string>
+	<key>Dismiss</key>
+	<string>Annulla</string>
+	<key>Download</key>
+	<string>Scarica</string>
+	<key>Download Playlist</key>
+	<string>Scarica Playlist</string>
+	<key>Download Playlist (Audio Only)</key>
+	<string>Scarica Playlist (Solo Audio)</string>
+	<key>Download Playlist (Videos)</key>
+	<string>Scarica Playlist (Video)</string>
+	<key>Download SoundClound songs for free!</key>
+	<string>Scarica da SoundCloud gratuitamente!</string>
+	<key>Downloader</key>
+	<string>Downloader</string>
+	<key>Downloading %@</key>
+	<string>Scaricato %@</string>
+	<key>Downloads</key>
+	<string>Scaricati</string>
+	<key>Downloads (Selected)</key>
+	<string>Scaricati (Selezionato)</string>
+	<key>Enable background playback for streaming videos.</key>
+	<string>Abilita riproduzione in background per i video in streaming</string>
+	<key>Enjoy an ad-free experience with Cercube Red</key>
+	<string>Goditi una esperienza senza pubblicità con Cercube Red</string>
+	<key>Enjoy the ultimate YouTube experience!</key>
+	<string>Gioisci con la miglior esperienza su YouTube!</string>
+	<key>Enter PayPal Email</key>
+	<string>Inserisci mail PayPal</string>
+	<key>Error</key>
+	<string>Errore</string>
+	<key>Failed to create a copy of the file. Are you running out of space?</key>
+	<string>Impossibile creare una copia del file, stai terminando lo spazio?</string>
+	<key>Failed to parse playlist</key>
+	<string>Impossibile analizzare playlist</string>
+	<key>Failed to post a tweet using %@. Error: %ld</key>
+	<string>Failed to post a tweet using %@. Error: %ld
+Pubblicazione del tweet usando %@ fallita. Errore: %ld</string>
+	<key>Failed to record transaction.</key>
+	<string>Transazione fallita</string>
+	<key>Failed to save media</key>
+	<string>Salvataggio fallito</string>
+	<key>Failed to verify license.</key>
+	<string>Verifica fallita</string>
+	<key>Force white keyboard in-app.</key>
+	<string>Usa tastiera bianca</string>
+	<key>Gestures</key>
+	<string>Azioni</string>
+	<key>Get Cercube Red (FREE)</key>
+	<string>Ottieni Cercube Red (GRATIS)</string>
+	<key>Get Rocket</key>
+	<string>Ottieni Rocket</string>
+	<key>Get rid of ads!</key>
+	<string>Stai alla larga dalle pubblicità!</string>
+	<key>Go to Channel</key>
+	<string>Vai al canale</string>
+	<key>HD on Cellular Data</key>
+	<string>HD su dati cellulare</string>
+	<key>Happy New Year! 🎉</key>
+	<string>Felice anno nuovo!🎉</string>
+	<key>Hey %@</key>
+	<string>Ciao %@</string>
+	<key>Hide Next &amp; Previous Buttons</key>
+	<string>Nascondi i tasti Prossimo e Precedente</string>
+	<key>Hide Trending Tab</key>
+	<string>Nascondi tab &quot;Popolari&quot;</string>
+	<key>Hide Upload Button</key>
+	<string>Nascondi tasto Carica</string>
+	<key>Hide floating upload button in home tab.</key>
+	<string>Nascondi tasto &quot;Carica&quot; fluttuante nella home</string>
+	<key>Hides Next &amp; Previous buttons in video overlay.</key>
+	<string>Nascondi Successivo e Precedente nel menù dei video.</string>
+	<key>Hides \&quot;Trending\&quot; tab in-app.</key>
+	<string>Nasconde il tab \&quot;Popolari\&quot; in app</string>
+	<key>Home</key>
+	<string>Home</string>
+	<key>Home (Selected)</key>
+	<string>Home (Selezionato)</string>
+	<key>I recently released a new free tweak for Instagram that lets you promote your photos and get more likes, save and repost media, mute and unmute users and much much more. I&apos;d love to hear your feedback! (It&apos;s currently free and ad-free!!)</key>
+	<string></string>
+	<key>I&apos;m loving Cercube for YouTube on my %@!</key>
+	<string>Sto adorando Cercube per YouTube sul mio %@!</string>
+	<key>I&apos;m using Cercube 3 to download YouTube videos on my %@!</key>
+	<string>Sto usando Cercube 3 per scaricare video da YouTube sul mio %@!</string>
+	<key>Import</key>
+	<string>Importa</string>
+	<key>Kill YouTube</key>
+	<string>Riavvia YouTube</string>
+	<key>Later</key>
+	<string>Dopo</string>
+	<key>Leaves the title of the home page unchanged by Cercube.</key>
+	<string>Lascia invariato il nome della Home da Cercube</string>
+	<key>Media Album</key>
+	<string>Album</string>
+	<key>Media Artist</key>
+	<string>Artista</string>
+	<key>Media Title</key>
+	<string>Titolo</string>
+	<key>Menu Gesture</key>
+	<string>Gesti menù</string>
+	<key>Merry Christmas! 🎅🏼</key>
+	<string>Buon Natale!🎅🏼</string>
+	<key>Min: 2\nMax: 60</key>
+	<string>Min:2\nMax: 60</string>
+	<key>Music Library</key>
+	<string>Libreria musicale</string>
+	<key>Music Library (Selected)</key>
+	<string>Libreria musicale (Selezionato)</string>
+	<key>NO</key>
+	<string>NO</string>
+	<key>No videos downloaded</key>
+	<string>Nessun video scaricato</string>
+	<key>No. Thanks</key>
+	<string>No, grazie</string>
+	<key>Offline Playback Mode</key>
+	<string>Riproduzione offline</string>
+	<key>Oh :(</key>
+	<string>Oh :(</string>
+	<key>Oh uh!</key>
+	<string>Oh uh!</string>
+	<key>Only this</key>
+	<string>Solo questo</string>
+	<key>Open Downloads folder</key>
+	<string>Apri cartella scaricati</string>
+	<key>Original Home title</key>
+	<string>Titolo Home originale</string>
+	<key>Play high quality videos over mobile networks.</key>
+	<string>Riproduci in HD su dati cellulare</string>
+	<key>Playback</key>
+	<string>Riproduzione</string>
+	<key>Playback Quality</key>
+	<string>Qualità di riproduzione</string>
+	<key>Please restart the app to apply changes</key>
+	<string>Per favore riavvia l&apos;app per confermare i cambiamenti</string>
+	<key>Profile</key>
+	<string>Profilo</string>
+	<key>Profile (Selected)</key>
+	<string>Profilo (Selezionato)</string>
+	<key>Prompt</key>
+	<string>Richiesta</string>
+	<key>Prompt (Selected)</key>
+	<string>Richiesta (Selezionato)</string>
+	<key>Purchase or Restore License</key>
+	<string>Compra o Ripristina licenza</string>
+	<key>Queue</key>
+	<string>Coda</string>
+	<key>Queue (Selected)</key>
+	<string>Coda (Selezionato)</string>
+	<key>Reduces height of the tabs bar.</key>
+	<string>Riduci altezza della barra dei tab</string>
+	<key>Rewind Value</key>
+	<string>Valore di Avvolgi</string>
+	<key>Save to Library</key>
+	<string>Salva nella libreria</string>
+	<key>Save to Photos</key>
+	<string>Salva in Foto</string>
+	<key>Saved to \&quot;Cercube\&quot; album</key>
+	<string>Salvato nell&apos;album \&quot;Cercube\&quot;</string>
+	<key>Search Gesture</key>
+	<string>Azione Cerca</string>
+	<key>Search the Web</key>
+	<string>Cerca in internet</string>
+	<key>Select from Photo Library</key>
+	<string>Selezione dalla libreria foto</string>
+	<key>Sending Tweet Failed</key>
+	<string>Invio del tweet fallito</string>
+	<key>Server is under maintenance. Please try again in an hour</key>
+	<string>Il server è in manutenzione. Riprova più tardi.</string>
+	<key>Set</key>
+	<string>Imposta</string>
+	<key>Share</key>
+	<string>Condividi</string>
+	<key>Sharing Failed</key>
+	<string>Condivisione fallita</string>
+	<key>Short hold on \&quot;Search\&quot; button.</key>
+	<string>Pressione breve sul tasto \&quot;Cerca\&quot;</string>
+	<key>Short hold to open downloads folder using a file manager</key>
+	<string>Premi brevenente per aprire la cartella dei download tramite un File Manager</string>
+	<key>Single</key>
+	<string>Singolo</string>
+	<key>Single (Selected)</key>
+	<string>Singolo (Selezionato)</string>
+	<key>Sorry :(\nNo videos available at this time, try other options to unlock Cercube Red.</key>
+	<string>Peccato :(\Non sono disponibili video al momento, prova un altra opzione per sbloccare Cercube Red.</string>
+	<key>Speed Rate Controls</key>
+	<string>Controlli di velocità</string>
+	<key>Startup Page</key>
+	<string>Pagina iniziale</string>
+	<key>Stop Download</key>
+	<string>Ferma download</string>
+	<key>Subscriptions</key>
+	<string>Iscrizioni</string>
+	<key>Subscriptions (Selected)</key>
+	<string>Iscrizioni (Selezionato)</string>
+	<key>Thanks for installing Cercube 3!</key>
+	<string>Grazie per aver installato Cercube 3!</string>
+	<key>Thanks for using Cercube 3! Would you like to follow the developer of the tweak to stay up-to-date with latest updates regarding Cercube?</key>
+	<string>Grazie per utilizzare Cercube 3! Ti piacerebbe seguire lo sviluppatore del tweak per rimanere aggiornato con gli ultimi aggiornamenti riguardanti Cercube?</string>
+	<key>The playlist is either empty or private. Make sure the playlist is public before attempting to download it.</key>
+	<string>La playlist è vuota o privata. Assicurati che la Playlist sia pubblica prima di provare a scaricarla.</string>
+	<key>The server is down. Please try again later!</key>
+	<string>Il server è offline. Riprova più tardi.</string>
+	<key>Title</key>
+	<string>Titolo</string>
+	<key>Trending</key>
+	<string>Popolari</string>
+	<key>Trending (Selected)</key>
+	<string>Popolari(Selezionato)</string>
+	<key>Trim Tabs Bar</key>
+	<string>Taglia barra dei tab</string>
+	<key>Tweet</key>
+	<string>Tweet</string>
+	<key>Tweet about Cercube 3</key>
+	<string>Twitta a proposito di Cercube</string>
+	<key>Twitter</key>
+	<string>Twitter</string>
+	<key>Twitter Access</key>
+	<string>Accesso a Twitter</string>
+	<key>Unauthorized Access</key>
+	<string>Accesso non autorizzato</string>
+	<key>Unknown</key>
+	<string>Sconosciuto</string>
+	<key>Update Cercube 3 to version %@!</key>
+	<string>Aggiorna Cervube 3 alla versione %@</string>
+	<key>Update Now</key>
+	<string>Aggiorna ora</string>
+	<key>Upgrade</key>
+	<string>Aggiorna</string>
+	<key>Videos Library</key>
+	<string>Libreria video</string>
+	<key>Videos Library (Selected)</key>
+	<string>Libreria video (Selezionato)</string>
+	<key>Watch Video</key>
+	<string>Guarda video</string>
+	<key>What would you like to play?</key>
+	<string>Cosa ti piacerebbe guardare?</string>
+	<key>White Keyboard</key>
+	<string>Tastiera bianca</string>
+	<key>Would you like to remove all downloads?</key>
+	<string>Vorresti rimuovere tutte le pubblicità?</string>
+	<key>Would you like to upgrade to Cercube Red and get rid of these ads forever?</key>
+	<string>Vorresti aggiornare a Cercube Red ed eliminare queste pubblicità per sempre?</string>
+	<key>YES</key>
+	<string>SI</string>
+	<key>You are a Cercube Red user. Please go to Cercube settings to restore your license.</key>
+	<string>Sei un utente Cercube Red. Per favore vai nelle impostazioni di Cercube per ripristinare la tua licenza.</string>
+	<key>You have to give Twitter permissions to YouTube app. You can do that from Privacy section inside Settings app.</key>
+	<string>È necessario fornire i permessi di Twitter all&apos;all YouTube. Puoi farlo dalla sezione Privacy nell&apos;app Impostazioni.</string>
+	<key>You need to have one Twitter account setup on your device at least. You can do that from Twitter section inside Settings app.</key>
+	<string>È necessario avere almeno un account Twitter configurato sul dispositivo. Puoi farlo dalla sezione Twitter nell&apos;app Impostazioni.</string>
+	<key>You&apos;re awesome!</key>
+	<string>Sei eccezionale!</string>
+	<key>cough cough.</key>
+	<string>cough cough.</string>
+	<key>Allow Delete All</key>
+	<string>Permetti eliminazione totale</string>
+	<key>Sliding all the way up on the downloads page allows you to clean all downloads.</key>
+	<string>Trascinando tutto giù nella pagina dei download permetterà la cancellazione di tutti i download.</string>
+</dict>
+</plist>

@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Kill YouTube</key>
+	<string>Youtube schließen</string>
+	<key>Cydia</key>
+	<string>Cydia</string>
+	<key>Cercube: Error</key>
+	<string>Cercube: Fehler</string>
+	<key>Cercube 3 is not loaded properly.\nThis is a problem caused by iOS and is usually fixed by rebooting your device.</key>
+	<string>Cercube 3 konnte nicht geladen werden.\nDas ist ein Problem von iOS, das durch einen Neustart behoben werden sollte.</string>
+	<key>You&apos;re awesome!</key>
+	<string>Du bist der Beste!</string>
+	<key>Thanks for using Cercube 3! Would you like to follow the developer of the tweak to stay up-to-date with latest updates regarding Cercube?</key>
+	<string>Danke, dass du Cercube 3 benutzt! Möchtest du dem Entwickler folgen, um die neusten Updates und Nachrichten über Cercube 3 zu erhalten?</string>
+	<key>No. Thanks</key>
+	<string>Nein, Danke.</string>
+	<key>Twitter</key>
+	<string>Twitter</string>
+	<key>Dismiss</key>
+	<string>Schließen</string>
+	<key>Get rid of ads!</key>
+	<string>Werbung loswerden!</string>
+	<key>Are you sick of ads? You can get rid of them by upgrading to Cercube Red.</key>
+	<string>Nerven dich die Werbungen? Du kannst sie loswerden, indem du Cercube Red kaufst.</string>
+	<key>Upgrade</key>
+	<string>Erweitern</string>
+	<key>You are a Cercube Red user. Please go to Cercube settings to restore your license.</key>
+	<string>Du hast bereits Cercube Red. Gehe in die Cercube Einstellungen, um deine Lizenz wiederherzustellen</string>
+	<key>Download SoundClound songs for free!</key>
+	<string>Lade Soundcloud Lieder umsonst herunter!</string>
+	<key>All-in-one free Instagram tweak!</key>
+	<string>Kostenloser Alles-in-allem Instagram Tweak</string>
+	<key>All-in-one free Facebook tweak!</key>
+	<string>Kostenloser Alles-in-allem Facebook Tweak</string>
+	<key>Would you like to upgrade to Cercube Red and get rid of these ads forever?</key>
+	<string>Möchtest du auf Cercube Red erweitern, um die Werbungen für immer loszuwerden?</string>
+	<key>Short hold to open downloads folder using a file manager</key>
+	<string>Kurz halten, um den Downloads Ordner in einem Dateimanager zu öffnen</string>
+	<key>Open Downloads folder</key>
+	<string>Downloads Ordner öffnen</string>
+	<key>Cancel</key>
+	<string>Abbrechen</string>
+	<key>Import</key>
+	<string>Importieren</string>
+	<key>Error</key>
+	<string>Fehler</string>
+	<key>Select from Photo Library</key>
+	<string>Aus dem Photoalbum aussuchen</string>
+	<key>Search the Web</key>
+	<string>Das Internet durchsuchen</string>
+	<key>Destination</key>
+	<string>Ziel</string>
+	<key>Music Library</key>
+	<string>Musicbibliothek</string>
+	<key>Videos Library</key>
+	<string>Videobibliothek</string>
+	<key>Unknown</key>
+	<string>Unbekannt</string>
+	<key>Media Title</key>
+	<string>Medien Titel</string>
+	<key>Title</key>
+	<string>Titel</string>
+	<key>Media Artist</key>
+	<string>Medienkünstler</string>
+	<key>Artist</key>
+	<string>Künstler</string>
+	<key>Media Album</key>
+	<string>Medien Album</string>
+	<key>Album</key>
+	<string>Album</string>
+	<key>Music Library (Selected)</key>
+	<string>Musicbibliothek (Ausgewählt)</string>
+	<key>Videos Library (Selected)</key>
+	<string>Videobibliothek (Ausgewählt)</string>
+	<key>Please restart the app to apply changes</key>
+	<string>Starte bitte die App neu, um die Veränderungen wirkend zu machen</string>
+	<key>Apply Changes</key>
+	<string>Veränderungen anbringen</string>
+	<key>Configuration</key>
+	<string>Konfiguration</string>
+	<key>Merry Christmas! 🎅🏼</key>
+	<string>Frohe Weihnachten! 🎅🏼</string>
+	<key>Happy New Year! 🎉</key>
+	<string>Frohes Neues Jahr 🎉</string>
+	<key>Thanks for installing Cercube 3!</key>
+	<string>Danke, dass du Cercube 3 installiert hast</string>
+	<key>Enjoy the ultimate YouTube experience!</key>
+	<string>Genieße die ultimative Youtube Erfahrung</string>
+	<key>Cercube 3 - v%@</key>
+	<string>Cercube 3 - %@</string>
+	<key>Buy the dev a cup of coffee</key>
+	<string>Kauf mir einen Kaffe</string>
+	<key>Tweet about Cercube 3</key>
+	<string>Schreibe einen Tweet über Cercube 3</string>
+	<key>Downloader</key>
+	<string>Downloader</string>
+	<key>Customizations</key>
+	<string>Anpassungen</string>
+	<key>Additions</key>
+	<string>Weiteres</string>
+	<key>Playback</key>
+	<string>Playback</string>
+	<key>Gestures</key>
+	<string>Gesten</string>
+	<key>Creators</key>
+	<string>Entwickler</string>
+	<key>Enjoy an ad-free experience with Cercube Red</key>
+	<string>Genieße Cercube 3 werbefrei mit Cercube Red</string>
+	<key>Cercube Red is Active</key>
+	<string>Cercube Red ist aktiv</string>
+	<key>Get Cercube Red (FREE)</key>
+	<string>Hole dir Cercube Red (Kostenlos)</string>
+	<key>Purchase or Restore License</key>
+	<string>Kaufe eine Lizenz oder stelle deine Lizenz wiederher</string>
+	<key>Default Download Quality</key>
+	<string>Standard Download Qualität</string>
+	<key>Auto</key>
+	<string>Automatisch</string>
+	<key>Prompt</key>
+	<string>Nachfragen</string>
+	<key>Trim Tabs Bar</key>
+	<string>Kürze die Tabs Leiste</string>
+	<key>Reduces height of the tabs bar.</key>
+	<string>Verkürzt die Höhe der Tabs Leiste</string>
+	<key>White Keyboard</key>
+	<string>Weiße Tastatur</string>
+	<key>Force white keyboard in-app.</key>
+	<string>Verwende das Weiße Tastatur Layout in der App</string>
+	<key>Hide Upload Button</key>
+	<string>Verstecke den Upload Button</string>
+	<key>Hide floating upload button in home tab.</key>
+	<string>Verstecke den Upload Button im Home Tab</string>
+	<key>Hide Trending Tab</key>
+	<string>Verstecke den Trending Tab</string>
+	<key>Hides \&quot;Trending\&quot; tab in-app.</key>
+	<string>Verstecke \&quot;Trending\&quot; Tab in der App</string>
+	<key>Original Home title</key>
+	<string>Originaler Home Titel</string>
+	<key>Leaves the title of the home page unchanged by Cercube.</key>
+	<string>Cercube wird den Titel der Home Seite nicht verändern</string>
+	<key>Auto Start on Page</key>
+	<string>Automatische Startseite</string>
+	<key>Automatically switch to the following page on startup.</key>
+	<string>Wähle die Startseite wenn die App startet</string>
+	<key>Startup Page</key>
+	<string>Startseite</string>
+	<key>Ads Blocker</key>
+	<string>Ads Blocker</string>
+	<key>Block video ads and promotional cells.</key>
+	<string>Blockiere Video Werbung</string>
+	<key>Background Playback</key>
+	<string>Hintergrund Musik</string>
+	<key>Enable background playback for streaming videos.</key>
+	<string>Hintergrund Musik für streaming Videos</string>
+	<key>HD on Cellular Data</key>
+	<string>HD Qualität über zellulare Netze</string>
+	<key>Play high quality videos over mobile networks.</key>
+	<string>Spiele HD Videos über mobile Daten</string>
+	<key>Automatically play videos with specified quality.</key>
+	<string>Spiele Videos automatisch mit gewählter Qualität</string>
+	<key>Default Playback Quality</key>
+	<string>Standard Video Qualität</string>
+	<key>Playback Quality</key>
+	<string>Video Qualität</string>
+	<key>Automatically replay video when playback completes.</key>
+	<string>Spiele Videos erneut, sobald es zuende ist</string>
+	<key>Auto Replay</key>
+	<string>Erneutes Spielen</string>
+	<key>Adds backward &amp; forward buttons to video overlay.</key>
+	<string>Fügt Buttons zum vorspulen und zurückspulen zum Video hinzu</string>
+	<key>Backward &amp; Forward</key>
+	<string>Vor &amp; Zurück</string>
+	<key>Adds (+) and (-) to control playback speed rate.</key>
+	<string>Fügt (+) und (-) zum kontrollieren der Videogeschwindigkeit hinzu</string>
+	<key>Speed Rate Controls</key>
+	<string>Schnelligkeitssteuerung</string>
+	<key>Rewind Value</key>
+	<string>Rückspul Wert</string>
+	<key>Offline Playback Mode</key>
+	<string>Offline schauen</string>
+	<key>Hides Next &amp; Previous buttons in video overlay.</key>
+	<string>Versteckt vor &amp; zurück Buttons im Video</string>
+	<key>Hide Next &amp; Previous Buttons</key>
+	<string>Versteckt vor &amp; zurück Buttons</string>
+	<key>Short hold on \&quot;Search\&quot; button.</key>
+	<string>Kurzes Halten auf dem &quot;Suchen&quot; Button</string>
+	<key>Search Gesture</key>
+	<string>Suchgeste</string>
+	<key>cough cough.</key>
+	<string>hust hust</string>
+	<key>Menu Gesture</key>
+	<string>Menügeste</string>
+	<key>Developer</key>
+	<string>Entwickler</string>
+	<key>Home (Selected)</key>
+	<string>Home (Ausgewählt)</string>
+	<key>Home</key>
+	<string>Home</string>
+	<key>Subscriptions (Selected)</key>
+	<string>Abo (Ausgewählt)</string>
+	<key>Subscriptions</key>
+	<string>Abo</string>
+	<key>Profile (Selected)</key>
+	<string>Profil (Ausgewählt)</string>
+	<key>Profile</key>
+	<string>Profil</string>
+	<key>Downloads (Selected)</key>
+	<string>Downloads (Ausgewählt)</string>
+	<key>Downloads</key>
+	<string>Downloads</string>
+	<key>Trending (Selected)</key>
+	<string>Trending (Ausgewählt)</string>
+	<key>Trending</key>
+	<string>Trending</string>
+	<key>144p (Selected)</key>
+	<string>144p (Ausgewählt)</string>
+	<key>240p (Selected)</key>
+	<string>240p (Ausgewählt)</string>
+	<key>360p (Selected)</key>
+	<string>360p (Ausgewählt)</string>
+	<key>480p (Selected)</key>
+	<string>480p (Ausgewählt)</string>
+	<key>720p (Selected)</key>
+	<string>720p (Ausgewählt)</string>
+	<key>1080p (Selected)</key>
+	<string>1080p (Ausgewählt)</string>
+	<key>Auto (Selected)</key>
+	<string>Auto (Ausgewählt)</string>
+	<key>Prompt (Selected)</key>
+	<string>Nachfragen (Ausgewählt)</string>
+	<key>Audio (Selected)</key>
+	<string>Audio (Ausgewählt)</string>
+	<key>Audio</key>
+	<string>Audio</string>
+	<key>Single (Selected)</key>
+	<string>Einzelnd (Ausgewählt)</string>
+	<key>Single</key>
+	<string>Einzelnd</string>
+	<key>Queue (Selected)</key>
+	<string>Warteschlange (Ausgewählt)</string>
+	<key>Queue</key>
+	<string>Warteschlange</string>
+	<key>Sorry :(\nNo videos available at this time, try other options to unlock Cercube Red.</key>
+	<string>Tut mir leid :(\n Es gibt keine Videos im Moment, versuche andere Optionen um Cercube Red zu bekommen</string>
+	<key>Watch Video</key>
+	<string>Schaue das Video</string>
+	<key>Tweet</key>
+	<string>Twittern</string>
+	<key>Activate Cercube Red to disable advertisements in Cercube!\n\n- Watching a video enables Cercube Red for 6 hours.\n- Tweeting about Cercube enables Cercube Red for 36 hours</key>
+	<string>Aktiviere Cercube Red um die Werbungen abzuschalten\n\n- Schaue ein Video um Cercube Red für 6 Stunden zu bekommen. Über Cercube Red zu twittern aktiviert Cercube Red für 36 Stunden</string>
+	<key>Enter PayPal Email</key>
+	<string>Gib deine PayPal Email ein</string>
+	<key>Confirm</key>
+	<string>Bestätigen</string>
+	<key>Min: 2\nMax: 60</key>
+	<string>Min: 2\nMax: 60</string>
+	<key>Set</key>
+	<string>setzen</string>
+	<key>Oh uh!</key>
+	<string>Oh uh!</string>
+	<key>Device blocked from making purchases. Please contact dev.</key>
+	<string>Gerät darf keine Käufe tätigen, bitte kontaktieren Sie den Entwickler</string>
+	<key>Cercube Red (Remove Ads)</key>
+	<string>Cercube Red (Werbungen abschalten)</string>
+	<key>Server is under maintenance. Please try again in an hour</key>
+	<string>Server wird bearbeitet, bitte versuche es in einer Stunde</string>
+	<key>Failed to verify license.</key>
+	<string>Das Verifizieren der Lizenz ist fehlgeschlagen</string>
+	<key>Failed to record transaction.</key>
+	<string>Die Transaktion konnte nicht fortgeführt werden</string>
+	<key>I&apos;m using Cercube 3 to download YouTube videos on my %@!</key>
+	<string>Ich kann durch Cercube 3 Youtube Videos herunterladen auf meinem %@</string>
+	<key>I&apos;m loving Cercube for YouTube on my %@!</key>
+	<string>Ich liebe Cercube 3 für Youtube auf meinem %@</string>
+	<key>Cercube 3 is a free Cydia tweak that lets you download Youtube videos on iOS!</key>
+	<string>Cercube 3 ist ein kostenloser Cydia Tweak, welcher dich Videos von Youtube herunterladen lässt.</string>
+	<key>Checkout Cercube 3! A tweak that lets you download YouTube videos for free.</key>
+	<string>Schau dir Cercube 3 an! Es ist ein Programm, dass dich kostenlos Youtube Videos herunterladen lässt.</string>
+	<key>Cercube 3 is the best YouTube downloader for iOS!</key>
+	<string>Cercube 3 ist der beste Youtube Video Downloader für iOS</string>
+	<key>Sending Tweet Failed</key>
+	<string>Twittern ist fehlgeschlagen</string>
+	<key>Failed to post a tweet using %@. Error: %ld</key>
+	<string>Twittern mit %@ ist fehlgeschlagen. Fehler:</string>
+	<key>Twitter Access</key>
+	<string>Twitter Zugang</string>
+	<key>You need to have one Twitter account setup on your device at least. You can do that from Twitter section inside Settings app.</key>
+	<string>Du must deinen Twitter Account in den Einstellungen von iOS hinzufügen, bevor du twitter kannst.</string>
+	<key>Unauthorized Access</key>
+	<string>Unbefugter Zugang</string>
+	<key>You have to give Twitter permissions to YouTube app. You can do that from Privacy section inside Settings app.</key>
+	<string>Du must Twitter für Youtube authorisieren. Das kannst du in den Privatsphäre Einstellungen deines Geräts machen.</string>
+	<key>Download</key>
+	<string>Herunterladen</string>
+	<key>Oh :(</key>
+	<string>Oh :(</string>
+	<key>The server is down. Please try again later!</key>
+	<string>Der Server ist nicht erreichbar. Bitte versuche es später erneut!</string>
+	<key>Downloading %@</key>
+	<string>Lade %@ herunter</string>
+	<key>Audio Only</key>
+	<string>Nur Audio</string>
+	<key>Failed to parse playlist</key>
+	<string>Fehler in der Playlist</string>
+	<key>The playlist is either empty or private. Make sure the playlist is public before attempting to download it.</key>
+	<string>Die Playlist ist entweder leer oder privat. Bitte stelle sicher, dass du öffentliche Playlists verwendest, bevor du versuchst sie herunterzuladen</string>
+	<key>Download Playlist (Videos)</key>
+	<string>Playlist (Videos) herunterladen</string>
+	<key>Download Playlist (Audio Only)</key>
+	<string>Playlist (Nur Audio) herunterladen</string>
+	<key>Download Playlist</key>
+	<string>Playlist herunterladen</string>
+	<key>Add to Downloads</key>
+	<string>Zu den Downloads hinzufügen</string>
+	<key>Delete</key>
+	<string>Löschen</string>
+	<key>Go to Channel</key>
+	<string>Zum Kanal gehen</string>
+	<key>Share</key>
+	<string>Teilen</string>
+	<key>Sharing Failed</key>
+	<string>Teilen fehlgeschlagen</string>
+	<key>Failed to create a copy of the file. Are you running out of space?</key>
+	<string>Das Kopieren der Datei ist fehlgeschlagen. Hast du zu wenig Speicher?</string>
+	<key>Save to Library</key>
+	<string>Speichere in der Bibliothek</string>
+	<key>Save to Photos</key>
+	<string>Speichere in Fotos</string>
+	<key>Saved to \&quot;Cercube\&quot; album</key>
+	<string>Speichere im &quot;Cercube&quot; Album</string>
+	<key>Failed to save media</key>
+	<string>Speichern fehlgeschlagen</string>
+	<key>Stop Download</key>
+	<string>Halte den Download an</string>
+	<key>Only this</key>
+	<string>Nur dieses</string>
+	<key>Complete Queue</key>
+	<string>Die gesamte Warteschlange</string>
+	<key>What would you like to play?</key>
+	<string>Was möchtest du abspielen?</string>
+	<key>No videos downloaded</key>
+	<string>Keine Videos heruntergeladen</string>
+	<key>Hey %@</key>
+	<string>Hallo %@</string>
+	<key>I recently released a new free tweak for Instagram that lets you promote your photos and get more likes, save and repost media, mute and unmute users and much much more. I&apos;d love to hear your feedback! (It&apos;s currently free and ad-free!!)</key>
+	<string>Ich habe kürzlich einen neuen kostenlosen Tweak für Instagram veröffentlicht, der deine Fotos bewirbt und mehr Likes generiert, der deine Fotos und Videos herunterlädt, Nutzer ignorieren kann und vieles mehr! Ich würde gerne deine Meinung hören (Im Moment ist es kostenlos und frei von Werbung)</string>
+	<key>Get Rocket</key>
+	<string>Installiere Rocket</string>
+	<key>YES</key>
+	<string>JA</string>
+	<key>NO</key>
+	<string>NEIN</string>
+	<key>Would you like to remove all downloads?</key>
+	<string>Möchtest du alle Downloads entfernen?</string>
+	<key>Cercube Update Required</key>
+	<string>Cercube braucht ein Update</string>
+	<key>Update Cercube 3 to version %@!</key>
+	<string>Update Cercube 3 zur Version %@</string>
+	<key>Update Now</key>
+	<string>Jetzt updaten</string>
+	<key>Later</key>
+	<string>Später</string>
+	<key>Cercube Update Available</key>
+	<string>Es gibt ein Cercube Update!</string>
+	<key>Allow Delete All</key>
+	<string>Erlaube alle Videos zu löschen</string>
+	<key>Sliding all the way up on the downloads page allows you to clean all downloads.</key>
+	<string>Du kannst alle Downloads löschen, indem du in der Download Sektion nach ganz unten scrollst. Dies kannst du hier abschalten oder aktivieren</string>
+</dict>
+</plist>
