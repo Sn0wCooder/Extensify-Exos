@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>BugFix</key>
-	<string>9</string>
+	<string>0</string>
 	<key>Major</key>
 	<string>2</string>
 	<key>Minor</key>
-	<string>0</string>
+	<string>1</string>
 	<key>identifier</key>
 	<string>me.alfhaily.rocket</string>
 	<key>install_type</key>
@@ -15,8 +15,8 @@
 	<key>tag</key>
 	<string>beta</string>
 	<key>timestamp</key>
-	<string>1504815689</string>
+	<string>1504821479</string>
 	<key>version</key>
-	<string>AwHQjBtppv8OmI7Gti1f3VnSj9JznLLrfq5LGzHh4EuAb29PsUcqms8iWZxQZJlNcSwrAAWT98mw7fPDltXtBpgSDGoswPcbEL9/1RIAwDBYNA==</string>
+	<string>AwHr0dFhELA7phrcpHYIWa7FuB2I8JnCZi+xa2kEardGFDRKHrgrmpL8160Vq5LJ+tJwdD+uh4eSS+P/qeTlf+Z5YPcRhgUeKV9Lf5WpAdo8WQ==</string>
 </dict>
 </plist>
