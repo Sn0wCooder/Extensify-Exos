@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BugFix</key>
+	<string>6</string>
+	<key>Major</key>
+	<string>2</string>
+	<key>Minor</key>
+	<string>1</string>
+	<key>identifier</key>
+	<string>me.alfhaily.rocket</string>
+	<key>install_type</key>
+	<string>extensify</string>
+	<key>tag</key>
+	<string>beta</string>
+	<key>timestamp</key>
+	<string>1511002056</string>
+	<key>version</key>
+	<string>AwF8BMz5bz2V5BfL+0FkFRsSDiS4VJpwhqUkFJlYchJOVosBQjuutbZh4np5DqIGEJwhrLkkS56JpiAP8GmGGiOFCqiAL/soifxnfg0z/u76TA==</string>
+</dict>
+</plist>
