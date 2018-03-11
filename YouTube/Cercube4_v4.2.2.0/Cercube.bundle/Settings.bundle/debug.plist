@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>rows</key>
+		<array>
+			<dict>
+				<key>type</key>
+				<integer>1</integer>
+				<key>title</key>
+				<string>Cercube Red</string>
+				<key>info</key>
+				<string>CA_RED_STATE</string>
+			</dict>
+			<dict>
+				<key>type</key>
+				<integer>1</integer>
+				<key>title</key>
+				<string>Activation Type</string>
+				<key>info</key>
+				<string>CA_RED_TYPE</string>
+			</dict>
+			<dict>
+				<key>type</key>
+				<integer>1</integer>
+				<key>title</key>
+				<string>Expiration</string>
+				<key>info</key>
+				<string>CA_RED_EXP</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>rows</key>
+		<array>
+			<dict>
+				<key>class</key>
+				<string>CASettingsDebugHandler</string>
+				<key>type</key>
+				<integer>0</integer>
+				<key>title</key>
+				<string>Simulate Crash</string>
+				<key>handler</key>
+				<string>didTapSimulateCrash:</string>
+			</dict>
+			<dict>
+				<key>class</key>
+				<string>CASettingsDebugHandler</string>
+				<key>type</key>
+				<integer>0</integer>
+				<key>title</key>
+				<string>Simulate Update</string>
+				<key>handler</key>
+				<string>didTapSimulateUpdate:</string>
+			</dict>
+			<dict>
+				<key>class</key>
+				<string>CASettingsDebugHandler</string>
+				<key>type</key>
+				<integer>0</integer>
+				<key>title</key>
+				<string>Reset YouTube Defaults</string>
+				<key>handler</key>
+				<string>didTapResetYTDefaults:</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>
