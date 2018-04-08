@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>install_type</key>
+	<string>sideload</string>
+	<key>timestamp</key>
+	<string>1521995670</string>
+	<key>version</key>
+	<string>3.0.3</string>
+</dict>
+</plist>
