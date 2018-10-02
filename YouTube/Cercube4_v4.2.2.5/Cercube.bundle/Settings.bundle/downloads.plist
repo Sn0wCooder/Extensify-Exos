@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>footerText</key>
+		<string>If the video you&apos;re trying to download is not available in the selected quality, this option will default to Always Ask</string>
+		<key>rows</key>
+		<array>
+			<dict>
+				<key>type</key>
+				<integer>2</integer>
+				<key>title</key>
+				<string>CA_SETTINGS_DEFAULT_QUALITY</string>
+				<key>defaultsKey</key>
+				<string>CADefaultDownloadQuality</string>
+				<key>default</key>
+				<string>CA_SETTINGS_ALWAYS_ASK</string>
+				<key>allValues</key>
+				<array>
+					<string>CA_SETTINGS_ALWAYS_ASK</string>
+					<string>CA_DOWNLOADS_AUDIO_ONLY</string>
+					<string>2160p</string>
+					<string>1440p</string>
+					<string>1080p</string>
+					<string>720p</string>
+					<string>480p</string>
+					<string>360p</string>
+					<string>240p</string>
+					<string>144p</string>
+				</array>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>
