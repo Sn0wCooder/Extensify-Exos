@@ -1,0 +1,142 @@
+Query IGQPQuery: Viewer {
+    viewer() {
+        eligible_promotions.ig_parameters(<ig_parameters>).surface_nux_id(<surface>).external_gating_permitted_qps(<external_gating_permitted_qps>).include_holdouts(true).trigger_name(<trigger_name>).supports_client_filters(true).trigger_context_v2(<trigger_context_v2>) {
+            edges {
+                log_eligibility_waterfall,
+                is_holdout,
+                priority,
+                time_range {
+                    start,
+                    end
+                },
+                node {
+                    id,
+                    promotion_id,
+                    logging_data,
+                    max_impressions,
+                    triggers,
+                    template {
+                        name,
+                        parameters {
+                          name,
+                          required,
+                          string_value,
+                          bool_value,
+                          color_value
+                        }
+                    },
+                    contextual_filters {
+                        clause_type,
+                        filters {
+                            filter_type,
+                            passes_if_not_supported,
+                            unknown_action,
+                            value {
+                                name,
+                                required,
+                                bool_value,
+                                int_value,
+                                string_value
+                            },
+                            extra_datas {
+                                name,
+                                required,
+                                bool_value,
+                                int_value,
+                                string_value
+                            }
+                        },
+                        clauses {
+                            clause_type,
+                            filters {
+                                filter_type,
+                                passes_if_not_supported,
+                                unknown_action,
+                                value {
+                                    name,
+                                    required,
+                                    bool_value,
+                                    int_value,
+                                    string_value
+                                },
+                                extra_datas {
+                                    name,
+                                    required,
+                                    bool_value,
+                                    int_value,
+                                    string_value
+                                }
+                            },
+                            clauses {
+                                clause_type,
+                                filters {
+                                    filter_type,
+                                    passes_if_not_supported,
+                                    unknown_action,
+                                    value {
+                                        name,
+                                        required,
+                                        bool_value,
+                                        int_value,
+                                        string_value
+                                    },
+                                    extra_datas {
+                                        name,
+                                        required,
+                                        bool_value,
+                                        int_value,
+                                        string_value
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    creatives {
+                      title {
+                        text
+                      },
+                      content {
+                        text
+                      },
+                      footer {
+                        text
+                      },
+                      social_context {
+                        text
+                      },
+                      social_context_images,
+                      primary_action{
+                        title {
+                          text
+                        },
+                        url,
+                        limit,
+                        dismiss_promotion
+                      },
+                      secondary_action {
+                        title {
+                          text
+                        },
+                        url,
+                        limit,
+                        dismiss_promotion
+                      },
+                      dismiss_action{
+                        title {
+                          text
+                        },
+                        url,
+                        limit,
+                        dismiss_promotion
+                      },
+                      image.scale(<scale>) {
+                        uri,
+                        width,
+                        height
+                      }
+                    }
+                }
+            }
+        }
+    }
+}

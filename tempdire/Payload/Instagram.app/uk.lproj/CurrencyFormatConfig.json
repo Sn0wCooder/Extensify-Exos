@@ -1,0 +1,224 @@
+{
+"__signature": "@generated SignedSource<<b09b2958acb968df6538c4e05302628b>>",
+"__generatedBy": "export-localized-js-module.php",
+"AED": {
+"format": "{amount} {symbol}",
+"name": "Дирхам ОАЕ"
+},
+"ARS": {
+"format": "{amount} {symbol}",
+"name": "Аргентинський песо"
+},
+"AUD": {
+"format": "{amount} {symbol}",
+"name": "Австралійський долар"
+},
+"BDT": {
+"format": "{amount} {symbol}",
+"name": "Бангладеська така"
+},
+"BOB": {
+"format": "{amount} {symbol}",
+"name": "Болівійський болівіано"
+},
+"BRL": {
+"format": "{amount} {symbol}",
+"name": "Бразильський реал"
+},
+"CAD": {
+"format": "{amount} {symbol}",
+"name": "Канадський долар"
+},
+"CHF": {
+"format": "{amount} {symbol}",
+"name": "Швейцарський франк"
+},
+"CLP": {
+"format": "{amount} {symbol}",
+"name": "Чилійський песо"
+},
+"CNY": {
+"format": "{amount} {symbol}",
+"name": "Китайський юань"
+},
+"COP": {
+"format": "{amount} {symbol}",
+"name": "Колумбійський песо"
+},
+"CRC": {
+"format": "{amount} {symbol}",
+"name": "Костариканський колон"
+},
+"CZK": {
+"format": "{amount} {symbol}",
+"name": "Чеська крона"
+},
+"DKK": {
+"format": "{amount} {symbol}",
+"name": "Данська крона"
+},
+"DZD": {
+"format": "{amount} {symbol}",
+"name": "Алжирський динар"
+},
+"EGP": {
+"format": "{amount} {symbol}",
+"name": "Єгипетський фунт"
+},
+"EUR": {
+"format": "{amount} {symbol}",
+"name": "Євро"
+},
+"GBP": {
+"format": "{amount} {symbol}",
+"name": "Британський фунт стерлінгів"
+},
+"GTQ": {
+"format": "{amount} {symbol}",
+"name": "Гватемальський кетсаль"
+},
+"HKD": {
+"format": "{amount} {symbol}",
+"name": "Гонконзький долар"
+},
+"HNL": {
+"format": "{amount} {symbol}",
+"name": "Гондураська лемпіра"
+},
+"HUF": {
+"format": "{amount} {symbol}",
+"name": "Угорський форинт"
+},
+"IDR": {
+"format": "{amount} {symbol}",
+"name": "Індонезійська рупія"
+},
+"ILS": {
+"format": "{amount} {symbol}",
+"name": "Ізраїльський новий шекель"
+},
+"INR": {
+"format": "{amount} {symbol}",
+"name": "Індійська рупія"
+},
+"ISK": {
+"format": "{amount} {symbol}",
+"name": "Ісландська крона"
+},
+"JPY": {
+"format": "{amount} {symbol}",
+"name": "Японська єна"
+},
+"KES": {
+"format": "{amount} {symbol}",
+"name": "Кенійський шилінг"
+},
+"KRW": {
+"format": "{amount} {symbol}",
+"name": "Корейська вона"
+},
+"MOP": {
+"format": "{amount} {symbol}",
+"name": "Патака Макао"
+},
+"MXN": {
+"format": "{amount} {symbol}",
+"name": "Мексиканський песо"
+},
+"MYR": {
+"format": "{amount} {symbol}",
+"name": "Малайський рингіт"
+},
+"NGN": {
+"format": "{amount} {symbol}",
+"name": "Нігерійська найра"
+},
+"NIO": {
+"format": "{amount} {symbol}",
+"name": "Нікараґуанська кордоба"
+},
+"NOK": {
+"format": "{amount} {symbol}",
+"name": "Норвезька крона"
+},
+"NZD": {
+"format": "{amount} {symbol}",
+"name": "Новозеландський долар"
+},
+"PEN": {
+"format": "{amount} {symbol}",
+"name": "Перуанський новий соль"
+},
+"PHP": {
+"format": "{amount} {symbol}",
+"name": "Філіпінський песо"
+},
+"PKR": {
+"format": "{amount} {symbol}",
+"name": "Пакистанська рупія"
+},
+"PLN": {
+"format": "{amount} {symbol}",
+"name": "Польський злотий"
+},
+"PYG": {
+"format": "{amount} {symbol}",
+"name": "Парагвайський гуарані"
+},
+"QAR": {
+"format": "{amount} {symbol}",
+"name": "Катарські ріяли"
+},
+"RON": {
+"format": "{amount} {symbol}",
+"name": "Румунський лей"
+},
+"RUB": {
+"format": "{amount} {symbol}",
+"name": "Російський рубль"
+},
+"SAR": {
+"format": "{amount} {symbol}",
+"name": "Ріал Саудівської Аравії"
+},
+"SEK": {
+"format": "{amount} {symbol}",
+"name": "Шведська крона"
+},
+"SGD": {
+"format": "{amount} {symbol}",
+"name": "Сінгапурський долар"
+},
+"THB": {
+"format": "{amount} {symbol}",
+"name": "Тайський бат"
+},
+"TRY": {
+"format": "{amount} {symbol}",
+"name": "Турецька ліра"
+},
+"TWD": {
+"format": "{amount} {symbol}",
+"name": "Тайваньський долар"
+},
+"USD": {
+"format": "{amount} {symbol}",
+"name": "долари США"
+},
+"UYU": {
+"format": "{amount} {symbol}",
+"name": "Уругвайський песо"
+},
+"VEF": {
+"format": "{amount} {symbol}",
+"name": "Венесуельський болівар"
+},
+"VND": {
+"format": "{amount} {symbol}",
+"name": "В'єтнамський донґ"
+},
+"ZAR": {
+"format": "{amount} {symbol}",
+"name": "Південноафриканський ранд"
+}
+}

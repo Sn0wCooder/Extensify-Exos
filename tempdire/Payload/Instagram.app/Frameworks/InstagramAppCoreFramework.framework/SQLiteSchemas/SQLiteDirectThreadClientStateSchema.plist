@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>ClassName</key>
+  <string>IGDirectThreadClientState</string>
+  <key>TableName</key>
+  <string>thread_client_state</string>
+  <key>ShouldStoreArchive</key>
+  <true/>
+  <key>Columns</key>
+  <array>
+    <dict>
+      <key>ColumnName</key>
+      <string>thread_id</string>
+      <key>PropertyName</key>
+      <string>threadId</string>
+      <key>Type</key>
+      <string>TEXT</string>
+      <key>Constraints</key>
+      <string>NOT NULL</string>
+    </dict>
+  </array>
+</dict>
+</plist>

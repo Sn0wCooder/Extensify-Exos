@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ClassName</key>
+	<string>IGDirectInboxMetadata</string>
+	<key>TableName</key>
+	<string>inbox_metadata</string>
+	<key>Columns</key>
+	<array>
+		<dict>
+			<key>ColumnName</key>
+			<string>sequence_id</string>
+			<key>PropertyName</key>
+			<string>sequenceID</string>
+			<key>Type</key>
+			<string>INTEGER</string>
+			<key>Constraints</key>
+			<string>NOT NULL</string>
+		</dict>
+		<dict>
+			<key>ColumnName</key>
+			<string>snapshot_at_ms</string>
+			<key>PropertyName</key>
+			<string>snapshotAtMs</string>
+			<key>Type</key>
+			<string>REAL</string>
+			<key>Constraints</key>
+			<string>NOT NULL</string>
+		</dict>
+		<dict>
+			<key>ColumnName</key>
+			<string>snapshot_app_version</string>
+			<key>PropertyName</key>
+			<string>snapshotAppVersion</string>
+			<key>Type</key>
+			<string>TEXT</string>
+			<key>Constraints</key>
+			<string>NOT NULL</string>
+		</dict>
+		<dict>
+			<key>ColumnName</key>
+			<string>cursors</string>
+			<key>PropertyName</key>
+			<string>cursors</string>
+			<key>Type</key>
+			<string>BLOB</string>
+			<key>Constraints</key>
+			<string>NOT NULL</string>
+		</dict>
+		<dict>
+			<key>ColumnName</key>
+			<string>unseen_count_from_server</string>
+			<key>PropertyName</key>
+			<string>unseenCountFromServer</string>
+			<key>Type</key>
+			<string>INTEGER</string>
+		</dict>
+	</array>
+</dict>
+</plist>

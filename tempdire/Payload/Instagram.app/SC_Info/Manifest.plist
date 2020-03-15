@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SinfPaths</key>
+	<array>
+		<string>SC_Info/Instagram.sinf</string>
+	</array>
+	<key>SinfReplicationPaths</key>
+	<array>
+		<string>Frameworks/FBSharedFramework.framework/SC_Info/FBSharedFramework.sinf</string>
+		<string>Frameworks/InstagramAppCoreFramework.framework/SC_Info/InstagramAppCoreFramework.sinf</string>
+		<string>PlugIns/InstagramNotificationExtension.appex/SC_Info/InstagramNotificationExtension.sinf</string>
+		<string>PlugIns/InstagramShareExtension.appex/SC_Info/InstagramShareExtension.sinf</string>
+		<string>SC_Info/Instagram.sinf</string>
+	</array>
+</dict>
+</plist>

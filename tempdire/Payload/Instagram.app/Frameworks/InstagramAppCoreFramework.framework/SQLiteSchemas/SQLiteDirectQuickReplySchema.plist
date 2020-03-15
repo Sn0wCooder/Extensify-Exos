@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ClassName</key>
+	<string>IGDirectQuickReply</string>
+	<key>TableName</key>
+	<string>quick_reply</string>
+	<key>Columns</key>
+	<array>
+		<dict>
+			<key>ColumnName</key>
+			<string>quickReplyId</string>
+			<key>PropertyName</key>
+			<string>quickReplyId</string>
+			<key>Type</key>
+			<string>TEXT</string>
+		</dict>
+		<dict>
+			<key>ColumnName</key>
+			<string>shortcut</string>
+			<key>PropertyName</key>
+			<string>shortcut</string>
+			<key>Type</key>
+			<string>TEXT</string>
+		</dict>
+		<dict>
+			<key>ColumnName</key>
+			<string>message</string>
+			<key>PropertyName</key>
+			<string>message</string>
+			<key>Type</key>
+			<string>TEXT</string>
+		</dict>
+	</array>
+</dict>
+</plist>

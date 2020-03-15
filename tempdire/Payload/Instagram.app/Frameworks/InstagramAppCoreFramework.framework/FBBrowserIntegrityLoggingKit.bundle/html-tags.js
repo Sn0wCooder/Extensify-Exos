@@ -1,0 +1,1 @@
+(function(){if(null==document.documentElement)var a=void 0;else{a=document.documentElement.getElementsByTagName("*");for(var b={},c=0;c<a.length;c++){var d=a.item(c).nodeName.toUpperCase();d in b||(b[d]=0);b[d]++}a=b}return a})();

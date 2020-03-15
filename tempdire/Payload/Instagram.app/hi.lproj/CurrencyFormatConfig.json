@@ -1,0 +1,224 @@
+{
+"__signature": "@generated SignedSource<<fe8f055e7f157d25eaae417fee936c28>>",
+"__generatedBy": "export-localized-js-module.php",
+"AED": {
+"format": "{symbol} {amount}",
+"name": "संयुक्त अरब अमीरात दिरहम"
+},
+"ARS": {
+"format": "{symbol} {amount}",
+"name": "अर्जेंटीनी पेसो"
+},
+"AUD": {
+"format": "{symbol} {amount}",
+"name": "ऑस्ट्रेलियाई  डॉलर"
+},
+"BDT": {
+"format": "{symbol} {amount}",
+"name": "बांग्लादेशी टका"
+},
+"BOB": {
+"format": "{symbol} {amount}",
+"name": "बोलीवियाई बोलीवियानो"
+},
+"BRL": {
+"format": "{symbol} {amount}",
+"name": "ब्राज़ीलियाई रियल"
+},
+"CAD": {
+"format": "{symbol} {amount}",
+"name": "कनाडाई डॉलर"
+},
+"CHF": {
+"format": "{symbol} {amount}",
+"name": "स्विस फ़्रैंक"
+},
+"CLP": {
+"format": "{symbol} {amount}",
+"name": "चिली पेसो"
+},
+"CNY": {
+"format": "{symbol} {amount}",
+"name": "चीनी युआन"
+},
+"COP": {
+"format": "{symbol} {amount}",
+"name": "कोलंबियाई पेसो"
+},
+"CRC": {
+"format": "{symbol} {amount}",
+"name": "कोस्टा रिकन कोलोन"
+},
+"CZK": {
+"format": "{symbol} {amount}",
+"name": "चेक कोरुना"
+},
+"DKK": {
+"format": "{symbol} {amount}",
+"name": "डैनिश क्रोन"
+},
+"DZD": {
+"format": "{symbol} {amount}",
+"name": "अल्जीरियाई दीनार"
+},
+"EGP": {
+"format": "{symbol} {amount}",
+"name": "मिस्र पाउंड"
+},
+"EUR": {
+"format": "{symbol} {amount}",
+"name": "यूरो"
+},
+"GBP": {
+"format": "{symbol} {amount}",
+"name": "ब्रिटिश पाउंड"
+},
+"GTQ": {
+"format": "{symbol} {amount}",
+"name": "ग्वाटेमालन क्वेट्ज़ल"
+},
+"HKD": {
+"format": "{symbol} {amount}",
+"name": "हाँग काँग डॉलर"
+},
+"HNL": {
+"format": "{symbol} {amount}",
+"name": "होन्डुरास का लेम्पिरा"
+},
+"HUF": {
+"format": "{symbol} {amount}",
+"name": "हंगेरियाई फ़ोरिंट"
+},
+"IDR": {
+"format": "{symbol} {amount}",
+"name": "इंडोनेशियाई रुपया"
+},
+"ILS": {
+"format": "{symbol} {amount}",
+"name": "इस्राइली नया शेकेल"
+},
+"INR": {
+"format": "{symbol} {amount}",
+"name": "भारतीय रुपया"
+},
+"ISK": {
+"format": "{symbol} {amount}",
+"name": "आइसलैंड क्रोना"
+},
+"JPY": {
+"format": "{symbol} {amount}",
+"name": "जापानी येन"
+},
+"KES": {
+"format": "{symbol} {amount}",
+"name": "केन्याई शिलिंग"
+},
+"KRW": {
+"format": "{symbol} {amount}",
+"name": "कोरियन वॉन"
+},
+"MOP": {
+"format": "{symbol} {amount}",
+"name": "मकाऊ पटाकस"
+},
+"MXN": {
+"format": "{symbol} {amount}",
+"name": "मैक्सिकन पेसो"
+},
+"MYR": {
+"format": "{symbol} {amount}",
+"name": "मलेशियाई रिंग्गित"
+},
+"NGN": {
+"format": "{symbol} {amount}",
+"name": "नाइजीरियाई नैरा"
+},
+"NIO": {
+"format": "{symbol} {amount}",
+"name": "निकारागुअन कोरदोबा"
+},
+"NOK": {
+"format": "{symbol} {amount}",
+"name": "नॉर्वेजियाई क्रोन"
+},
+"NZD": {
+"format": "{symbol} {amount}",
+"name": "न्यूज़ीलैंड डॉलर"
+},
+"PEN": {
+"format": "{symbol} {amount}",
+"name": "पेरुवियन नुएवो सोल"
+},
+"PHP": {
+"format": "{symbol} {amount}",
+"name": "फ़िलिपीनी पेसो"
+},
+"PKR": {
+"format": "{symbol} {amount}",
+"name": "पाकिस्तानी रुपया"
+},
+"PLN": {
+"format": "{symbol} {amount}",
+"name": "पोलिश ज़्लोटी"
+},
+"PYG": {
+"format": "{symbol} {amount}",
+"name": "पराग्विआई गुआऱानी"
+},
+"QAR": {
+"format": "{symbol} {amount}",
+"name": "क़तरी रियाल"
+},
+"RON": {
+"format": "{symbol} {amount}",
+"name": "रोमानियन लेऊ"
+},
+"RUB": {
+"format": "{symbol} {amount}",
+"name": "रूसी रूबल"
+},
+"SAR": {
+"format": "{symbol} {amount}",
+"name": "सऊदी अरबी रियाल"
+},
+"SEK": {
+"format": "{symbol} {amount}",
+"name": "स्वीडिश क्रोना"
+},
+"SGD": {
+"format": "{symbol} {amount}",
+"name": "सिंगापुरी डॉलर"
+},
+"THB": {
+"format": "{symbol} {amount}",
+"name": "थाई बहत"
+},
+"TRY": {
+"format": "{symbol} {amount}",
+"name": "तुर्किश लीरा"
+},
+"TWD": {
+"format": "{symbol} {amount}",
+"name": "ताइवान डॉलर"
+},
+"USD": {
+"format": "{symbol} {amount}",
+"name": "अमेरिकी डॉलर"
+},
+"UYU": {
+"format": "{symbol} {amount}",
+"name": "उरुग्वे पेसो"
+},
+"VEF": {
+"format": "{symbol} {amount}",
+"name": "वेनेजुएलिआई बॉलिवर"
+},
+"VND": {
+"format": "{symbol} {amount}",
+"name": "वियतनामी डोंग"
+},
+"ZAR": {
+"format": "{symbol} {amount}",
+"name": "दक्षिण अफ़्रीकी रैंड"
+}
+}

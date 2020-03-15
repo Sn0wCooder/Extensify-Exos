@@ -1,0 +1,12 @@
+{
+"__signature": "@generated SignedSource<<83942f2fd1eb91a69096431195daed7b>>",
+"__generatedBy": "export-localized-js-module.php",
+"decimalSeparator": ",",
+"numberDelimiter": ".",
+"minDigitsForThousandsSeparator": 4,
+"standardDecimalPatternInfo": {
+"primaryGroupSize": 3,
+"secondaryGroupSize": 3
+},
+"numberingSystemData": null
+}

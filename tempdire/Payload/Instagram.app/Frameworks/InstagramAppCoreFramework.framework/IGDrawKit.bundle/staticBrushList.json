@@ -1,0 +1,59 @@
+ [
+  {
+  "name": "Pen",
+  "brushClass": "PointBrush",
+  "size": {
+      "minimum": 2,
+      "maximum": 100
+  },
+  "dynamics": {
+      "springConstant": 0.053,
+      "damping": 0.778
+  },
+  "spacing": {
+      "offset": 0,
+      "size": 0.25,
+      "minimum": 0.25
+  },
+  "vertexShader": "uniform mat4 uMVP;\\nattribute vec4 aPosition;\\nattribute vec2 aVelocity;\\nattribute mediump float aSize;\\nattribute lowp vec4 aColor;\\n\\n\\n  varying lowp vec4 vColor;\\n  varying lowp float vInnerEdgeSquared;\\n\\n  void main(void) {\\n  gl_Position = uMVP * aPosition;\\n  highp float speed = length(aVelocity);\\n\\n  highp float minSize = 0.4;\\n  highp float flatness = 0.3 * aSize;\\n  gl_PointSize = aSize * (1.0 + minSize - smoothstep(0.0, flatness, sqrt(speed)));\\n  vColor = aColor;\\n  vColor.rgb *= aColor.a;\\n\\n  lowp float edgeWidth = 2.0 / gl_PointSize;\\n  vInnerEdgeSquared = (0.5 - edgeWidth) * (0.5 - edgeWidth);\\n  }",
+  "fragmentShader":"varying lowp vec4 vColor;\\n  varying lowp float vInnerEdgeSquared;\\n\\n  lowp float rampStep(lowp  float start, lowp float end, lowp float value) {\\n  lowp float range = end - start;\\n  return clamp((value - start) / range, 0.0, 1.0);\\n  }\\n\\n  void main(void) {\\n  lowp vec2 center = gl_PointCoord.xy - 0.5;\\n  lowp float radSquared = dot(center, center);\\n\\n  gl_FragColor = vColor * rampStep(0.25, vInnerEdgeSquared, radSquared);\\n  }"
+  },
+  {
+  "name": "Marker",
+  "brushClass": "PointBrush",
+  "size": {
+  "minimum": 2,
+  "maximum": 100
+  },
+  "dynamics": {
+  "springConstant": 0.053,
+  "damping": 0.778
+  },
+  "spacing": {
+  "offset": 0,
+  "size": 1,
+  "minimum": 0.25
+  },
+  "vertexShader": "uniform mat4 uMVP;\\nattribute vec4 aPosition;\\nattribute vec2 aVelocity;\\nattribute mediump float aSize;\\nattribute lowp vec4 aColor;\\n\\n\\n  varying lowp vec4 vColor;\\n  varying lowp float vInnerEdgeSquared;\\n\\n  void main(void) {\\n  gl_Position = uMVP * aPosition;\\n  highp float speed = length(aVelocity);\\n\\n  highp float minSize = 0.4;\\n  highp float flatness = 0.3 * aSize;\\n  gl_PointSize = aSize * (1.0 + minSize - smoothstep(0.0, flatness, sqrt(speed)));\\n  vColor = aColor;\\n  vColor.rgb *= aColor.a;  vColor /= 1.0 + sqrt(length(aVelocity)); \\n\\n  lowp float edgeWidth = 2.0 / gl_PointSize;\\n  vInnerEdgeSquared = (0.5 - edgeWidth) * (0.5 - edgeWidth);\\n  }",
+  "fragmentShader":"varying lowp vec4 vColor;\\n  varying lowp float vInnerEdgeSquared;\\n\\n  lowp float rampStep(lowp  float start, lowp float end, lowp float value) {\\n  lowp float range = end - start;\\n  return clamp((value - start) / range, 0.0, 1.0);\\n  }\\n\\n  void main(void) {\\n  lowp vec2 center = gl_PointCoord.xy - 0.5;\\n  lowp float radSquared = dot(center, center);\\n\\n  gl_FragColor = vColor * rampStep(0.25, vInnerEdgeSquared, radSquared);\\n  }"
+  },
+  {
+  "name": "Neon",
+  "brushClass": "PointBrush",
+  "size": {
+  "minimum": 2,
+  "maximum": 100
+  },
+  "dynamics": {
+      "springConstant": 0.05,
+      "damping": 0.95
+  },
+  "spacing": {
+      "offset": 0,
+      "size": 0.5,
+      "minimum": 0.25
+  },
+  "vertexShader": "uniform mat4 uMVP;\\nattribute vec4 aPosition;\\nattribute vec2 aVelocity;\\nattribute mediump float aSize;\\nattribute lowp vec4 aColor;\\n\\n\\n  varying lowp vec4 vColor;\\n  varying lowp float vInnerEdgeSquared;\\n\\n  void main(void) {\\n  gl_Position = uMVP * aPosition;\\n  highp float speed = length(aVelocity);\\n\\n  highp float minSize = 0.4;\\n  highp float flatness = 0.3 * aSize;\\n  gl_PointSize = aSize * (1.0 + minSize - smoothstep(0.0, flatness, speed));\\n  vColor = aColor;\\n  vColor.rgb *= aColor.a;  vColor *= min(1.0, 0.01 + 0.25 * speed); \\n\\n  lowp float edgeWidth = 2.0 / gl_PointSize;\\n  vInnerEdgeSquared = (0.5 - edgeWidth) * (0.5 - edgeWidth);\\n  }",
+  "fragmentShader":"varying lowp vec4 vColor;\\n  varying lowp float vInnerEdgeSquared;\\n\\n  lowp float rampStep(lowp  float start, lowp float end, lowp float value) {\\n  lowp float range = end - start;\\n  return clamp((value - start) / range, 0.0, 1.0);\\n  }\\n\\n  void main(void) {\\n  lowp vec2 center = gl_PointCoord.xy - 0.5;\\n  lowp float radSquared = dot(center, center);\\n\\n  gl_FragColor = vColor * rampStep(0.25, vInnerEdgeSquared, radSquared);\\n  }"
+  }
+]

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ClassName</key>
+	<string>IGDirectPublishedThread</string>
+	<key>TableName</key>
+	<string>threads</string>
+	<key>Columns</key>
+	<array>
+		<dict>
+			<key>ColumnName</key>
+			<string>thread_id</string>
+			<key>PropertyName</key>
+			<string>threadId</string>
+			<key>Type</key>
+			<string>TEXT</string>
+			<key>Constraints</key>
+			<string>UNIQUE NOT NULL</string>
+		</dict>
+		<dict>
+			<key>ColumnName</key>
+			<string>thread_id_v2</string>
+			<key>PropertyName</key>
+			<string>threadIdV2ForInboxPaging</string>
+			<key>Type</key>
+			<string>TEXT</string>
+		</dict>
+		<dict>
+			<key>ColumnName</key>
+			<string>viewer_id</string>
+			<key>PropertyName</key>
+			<string>viewerId</string>
+			<key>Type</key>
+			<string>TEXT</string>
+			<key>Constraints</key>
+			<string>NOT NULL</string>
+		</dict>
+		<dict>
+			<key>ColumnName</key>
+			<string>metadata</string>
+			<key>PropertyName</key>
+			<string>metadata</string>
+			<key>Type</key>
+			<string>BLOB</string>
+		</dict>
+		<dict>
+			<key>ColumnName</key>
+			<string>thread_messages_range</string>
+			<key>PropertyName</key>
+			<string>threadMessagesRange</string>
+			<key>Type</key>
+			<string>BLOB</string>
+		</dict>
+		<dict>
+			<key>ColumnName</key>
+			<string>visual_message_info</string>
+			<key>PropertyName</key>
+			<string>visualMessageInfo</string>
+			<key>Type</key>
+			<string>BLOB</string>
+		</dict>
+	</array>
+	<key>Relationships</key>
+	<array>
+		<dict>
+			<key>Type</key>
+			<string>toMany</string>
+			<key>ForeignTableName</key>
+			<string>messages</string>
+			<key>ForeignColumnName</key>
+			<string>thread_id</string>
+			<key>NativeColumnName</key>
+			<string>thread_id</string>
+			<key>PropertyName</key>
+			<string>publishedMessageSet</string>
+		</dict>
+	</array>
+</dict>
+</plist>
