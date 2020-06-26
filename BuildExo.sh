@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Script version: 1.1.2
+# Script version: 1.1.3
 
 # TODO first of all: check if brew and all tools required are installed
 
@@ -106,7 +106,7 @@ done < ../$opt
 for DYLIB in ./*.dylib; do
   DYLIBNAME=$(basename $DYLIB)
   echo "Injecting $DYLIBNAME..."
-  optool install -c load -p @executable_path/$DYLIBNAME -t ../Payload/*/$filename #> /dev/null 2>&1
+  optool install -c load -p @executable_path/$DYLIBNAME -t ../Payload/*/$filename > /dev/null 2>&1
 done
 
 # Move files
