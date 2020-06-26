@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Script version: 1.1
+# Script version: 1.1.1
 
 # TODO first of all: check if brew and all tools required are installed
 
@@ -33,7 +33,7 @@ echo "End directory: $OUTPUT"
 
 TMPDIR=$(mktemp -d -t ci-XXXXXXXXXX)
 cd $TMPDIR
-#open $TMPDIR
+open $TMPDIR
 
 echo "Insert here the decrypted IPA:"
 read crackedipa
@@ -106,7 +106,7 @@ done < ../$opt
 for DYLIB in ./*.dylib; do
   DYLIBNAME=$(basename $DYLIB)
   echo "Injecting $DYLIBNAME..."
-  optool install -c load -p @executable_path/$dylibname -t ../Payload/*/$filename > /dev/null 2>&1
+  optool install -c load -p @executable_path/$DYLIBNAME -t ../Payload/*/$filename #> /dev/null 2>&1
 done
 
 # Move files
@@ -128,6 +128,6 @@ newfilename=`echo $newfilename|tr '-' '_'`
 mv app.ipa $OUTPUT/$newfilename
 
 # Clean up
-rm -rf $TMPDIR
+#rm -rf $TMPDIR
 
 echo "Finished!"
